@@ -2,6 +2,8 @@
 
 <img width="859" alt="knowledgeispower" src="https://github.com/mar19a/KnowledgeIsPower/assets/84360137/cbe0d0bd-f7d3-409d-b916-aa77abe614c4">
 
+Refer to our [Final Project Presentation](./FinalProjectPresentation.pdf).
+
 ## Overview
 
 The "KnowledgeIsPower" project is a comprehensive analysis and prediction tool that leverages U.S. Census data to provide insights into various societal topics. This project includes features like data analysis of veterans, educational predictions based on income, and more. It showcases my ability to apply data science and machine learning techniques to solve real-world problems.
@@ -73,7 +75,6 @@ Krishnamurthy, Prabhakar. “Understanding Data Bias.” Medium, Towards Data Sc
 
 In this project, we applied our MATLAB skills to solve a societal problem, emphasizing the importance of education for progress. Our tool helps users appreciate the value of education and understand the realities of the country, aligning with our belief that “Knowledge is Power. Education Is the Premise of Progress in Every Society.”
 
-For more details, you can refer to our [Final Project Presentation](./FinalProjectPresentation.pdf).
 
 ### Link to Code and Data
 
