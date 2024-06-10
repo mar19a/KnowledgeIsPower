@@ -49,8 +49,6 @@ By using our program, users can learn more about various topics in the U.S., suc
 
 ## Project Links
 
-- [City of Boston 311 Analysis](https://github.com/mar19a/CityOfBoston311.git)
-- [Ecxtatic Store](https://github.com/mar19a/EcxtaticStore.git)
 - [Final Project Presentation](./FinalProjectPresentation.pdf)
 
 ## Contact
