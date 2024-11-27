@@ -76,7 +76,6 @@ Krishnamurthy, Prabhakar. “Understanding Data Bias.” Medium, Towards Data Sc
 In this project, we applied our MATLAB skills to solve a societal problem, emphasizing the importance of education for progress. Our tool helps users appreciate the value of education and understand the realities of the country, aligning with our belief that “Knowledge is Power. Education Is the Premise of Progress in Every Society.”
 
 
-### Link to Code and Data
+### Recognition
 
-You can find the code and data table used for this project in the following link:
-[Google Drive Folder](https://drive.google.com/drive/folders/1U0otOWyxyy4shgBXrYLepOuOCQbVjW7B?usp=sharing)
+Recognized as the winner of the National Applied Data Science Excellence Competition, praised for the project’s scalability, accuracy, and real-world application potential.
