@@ -2,6 +2,7 @@
 
 <img width="859" alt="knowledgeispower" src="https://github.com/mar19a/KnowledgeIsPower/assets/84360137/cbe0d0bd-f7d3-409d-b916-aa77abe614c4">
 
+
 🔗 [View Final Project Presentation (PDF)](./FinalProjectPresentation.pdf)
 
 ---
